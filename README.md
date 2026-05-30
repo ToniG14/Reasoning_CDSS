@@ -304,11 +304,33 @@ The system has been evaluated using:
 - **Expert Validation**: Clinical expert review of recommendations
 - **Automated Metrics**: Context precision, relevance, and factual accuracy
 
-## Research Publication
+## Publication and Citation
 
-This system is part of a research study: *"Reasoning Clinical Decision Support System with Large Language Model Agents: A Case Study in Pulmonary Embolism"*
+This repository contains the implementation associated with the following paper:
 
-The research demonstrates the effectiveness of agent-based LLM systems in clinical decision support, with particular focus on pulmonary embolism management.
+**Clinical Decision Support System for Pulmonary Embolism Case Management Using Large Language Model Agents**
+
+Published in the *Proceedings of the 18th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART*, pages 48–59, 2026.
+
+- [DOI](https://doi.org/10.5220/0014308700004052)
+- [Official SCITEPRESS page](https://www.scitepress.org/PublishedPapers/2026/143087/)
+- [PDF](https://www.scitepress.org/Papers/2026/143087/143087.pdf)
+
+If you use this repository, code, datasets, evaluation results, or any part of this work in your research, please cite the associated publication:
+
+```bibtex
+@conference{icaart26,
+  author       = {Antonio Giménez-López and Andrés Piñeiro-Martín and Iago Mosquera-Fajardo and Laura Docío-Fernández and Carmen García-Mateo},
+  title        = {Clinical Decision Support System for Pulmonary Embolism Case Management Using Large Language Model Agents},
+  booktitle    = {Proceedings of the 18th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART},
+  year         = {2026},
+  pages        = {48--59},
+  publisher    = {SciTePress},
+  organization = {INSTICC},
+  doi          = {10.5220/0014308700004052},
+  isbn         = {978-989-758-796-2}
+}
+```
 
 ## Contact
 
