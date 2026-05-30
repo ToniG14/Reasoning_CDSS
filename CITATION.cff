@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this repository, code, datasets, evaluation results, or any part of this work in your research, please cite the associated publication."
+title: "Clinical Decision Support System for Pulmonary Embolism Case Management Using Large Language Model Agents"
+type: software
+
+authors:
+  - family-names: "Giménez-López"
+    given-names: "Antonio"
+  - family-names: "Piñeiro-Martín"
+    given-names: "Andrés"
+  - family-names: "Mosquera-Fajardo"
+    given-names: "Iago"
+  - family-names: "Docío-Fernández"
+    given-names: "Laura"
+  - family-names: "García-Mateo"
+    given-names: "Carmen"
+
+doi: "10.5220/0014308700004052"
+url: "https://doi.org/10.5220/0014308700004052"
+date-released: "2026-03-20"
+
+preferred-citation:
+  type: conference-paper
+  title: "Clinical Decision Support System for Pulmonary Embolism Case Management Using Large Language Model Agents"
+  authors:
+    - family-names: "Giménez-López"
+      given-names: "Antonio"
+    - family-names: "Piñeiro-Martín"
+      given-names: "Andrés"
+    - family-names: "Mosquera-Fajardo"
+      given-names: "Iago"
+    - family-names: "Docío-Fernández"
+      given-names: "Laura"
+    - family-names: "García-Mateo"
+      given-names: "Carmen"
+  collection-title: "Proceedings of the 18th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART"
+  year: 2026
+  start: 48
+  end: 59
+  publisher:
+    name: "SciTePress"
+  doi: "10.5220/0014308700004052"
+  url: "https://doi.org/10.5220/0014308700004052"
